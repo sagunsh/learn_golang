@@ -1,5 +1,7 @@
 # Learning Go (Golang)
 
+Repository for learning Golang for someone coming from Python/PHP background.
+
 ### Running your code
 
     go run basics.go
