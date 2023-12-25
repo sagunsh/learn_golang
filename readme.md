@@ -14,3 +14,10 @@ Repository for learning Golang for someone coming from Python/PHP background.
 ### Initialize module (to install 3rd party libraries)
 
     go mod init <module name>
+
+### Useful Links
+
+* https://fireship.io/lessons/learn-go-in-100-lines/
+* https://gobyexample.com/
+* https://github.com/antchfx/htmlquery
+* https://go.dev/doc/effective_go
