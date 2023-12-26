@@ -21,3 +21,4 @@ Repository for learning Golang for someone coming from Python/PHP background.
 * https://gobyexample.com/
 * https://github.com/antchfx/htmlquery
 * https://go.dev/doc/effective_go
+* https://gophercises.com/
